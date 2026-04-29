@@ -1,0 +1,4 @@
+#dependecies
+requests
+matplotlib
+pandas
